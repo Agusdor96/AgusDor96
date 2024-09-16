@@ -1,5 +1,14 @@
 # ¡Hi! I´m Agustin 👋
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
 I am a **full-stack developer**. Over the past few months, I've been working on personal projects that sparked a lot of interest in me, leading to a **shift in my vocation**.
 
 I am committed to **continuing my learning journey** and I am more than interested in **joining a team** where I can contribute not only with my code, but also with my enthusiasm and passion for technology.
