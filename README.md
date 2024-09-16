@@ -18,7 +18,7 @@ I´m committed to **continuing my learning journey** and more than interested in
 ## Projects I worked in:
 - [Tournament Creation](https://github.com/estebannecuse/PadelArena-Back): App for creating and managing Paddle single elimination tournaments
 - [e-commerce API](https://github.com/Agusdor96/agus-ecommerce): REST API for managing an e-commerce APP.
-- [Appointments ClimbingClub](https://github.com/juan/music-api):  An appointment application built with React and NestJS.
+- [Appointments ClimbingClub](https://github.com/Agusdor96/lunaMuroWeb):  An appointment application built with React and NestJS.
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/agustin-repetto-3646a42b7)
