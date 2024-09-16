@@ -22,6 +22,7 @@ I´m committed to **continuing my learning journey** and more than interested in
 - 🏆 [Tournament Creation](https://github.com/estebannecuse/PadelArena-Back): App for creating and managing Padle tennis single elimination tournaments
 - 💻 [e-commerce API](https://github.com/Agusdor96/agus-ecommerce): REST API for managing an e-commerce APP.
 - 🧗 [Appointments ClimbingClub](https://github.com/Agusdor96/lunaMuroWeb):  An appointment application built with React and NestJS.
+- 🎥 [Movie Platform](https://github.com/Agusdor96/MoviePlatform): Basic platform where users can upload their favorite movies.
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/agustin-repetto-3646a42b7)
