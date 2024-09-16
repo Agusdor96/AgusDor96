@@ -7,16 +7,13 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-brightgreen?style=for-the-badge&logo=express&logoColor=white" />
+
 </p>
 
 I am a **full-stack developer**. Over the past few months, I've been working on personal projects that sparked a lot of interest in me, leading to a **shift in my vocation**.
 
-I am committed to **continuing my learning journey** and I am more than interested in **joining a team** where I can contribute not only with my code, but also with my enthusiasm and passion for technology.
-
-## Technologies I work with:
-- **Languages**: JavaScript, TypeScript
-- **Frameworks**: React, Node.js, NestJS, Express
-- **DataBase**: MySQL, PostgreSQL, MongoDb
+I´m committed to **continuing my learning journey** and more than interested in **joining a team** where I can contribute not only with my code, but also with my enthusiasm and passion.
 
 ## Projects I worked in:
 - [Tournament Creation](https://github.com/estebannecuse/PadelArena-Back): App for creating and managing Paddle single elimination tournaments
